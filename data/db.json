@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"My first blog",
+            "body":"lorem ",
+            "author":"mario",
+            "id":1
+        },
+        {
+            "title":"My second blog",
+            "body":"ipsum ",
+            "author":"ninja",
+            "id":2
+        }
+    ]
+}
